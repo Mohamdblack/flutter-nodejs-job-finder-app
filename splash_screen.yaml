@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#2623D2"
+  image: assets/case animation.gif
+
+  android_12:
+    color: "#2623D2"
+    image: assets/case animation.gif
+
+  web: false
