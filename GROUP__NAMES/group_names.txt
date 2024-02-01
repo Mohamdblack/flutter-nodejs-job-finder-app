@@ -12,4 +12,4 @@ Yusuf Ali farah                 ID: C120088
 
 
 
-Project Name: blogging website
+Project Name: Job Finder 
