@@ -1,0 +1,15 @@
+
+Names:                          IDs:
+-------------------------------------------------------------------
+
+Mohamed Abdulle Elmi            ID: C120364
+Hassan Abdi Ahmed               ID: C120304
+Osman Hassan Abdishakur         ID: C120365
+Liban Mohamed farah             ID: C120303
+Ahmed Abdulkadir Awale          ID: C120306
+Yusuf Ali farah                 ID: C120088
+
+
+
+
+Project Name: blogging website
